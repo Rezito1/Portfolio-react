@@ -32,7 +32,7 @@ export default function Home({ bgColor, setBgColor}) {
 
         <div className="myPic">
           <img
-            src="/img/reza.webp"
+            src="./img/reza.webp"
             alt="Photo af Reza Nowrozi"
             onClick={() => setBgColor(bgColor === "lightblue" ? "#f4f6f8" : "lightblue")
             }

@@ -38,7 +38,7 @@ export default function About({ setBgColor }) {
 
           <div className="about-pic">
             <img
-              src="/img/reza.webp"
+              src="./img/reza.webp"
               alt="Photo of Reza"
               onClick={() =>
                 setBgColor((prev) =>

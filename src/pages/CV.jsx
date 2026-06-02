@@ -8,7 +8,7 @@ export default function CV() {
 
         <div className="div1">
           <img
-            src="/img/reza-cv.webp"
+            src="./img/reza-cv.webp"
             className="cv-photo"
             alt="Reza CV photo"
           />
