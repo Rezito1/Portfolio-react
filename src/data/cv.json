@@ -1,0 +1,71 @@
+
+{
+  "name": "Reza Nowrozi",
+
+  "profile": "Jag läste samhällsvetenskapliga programmet och tog studenten 2021. Jag är intresserad av programmering och vill utveckla mina kunskaper inom området.",
+
+  "skills": [
+    "Mycket motiverad person",
+    "Ansvarsfull",
+    "Social person",
+    "Ambitiös",
+    "Lättlärd",
+    "Bekväm att arbeta med högt tempo"
+  ],
+
+  "contact": {
+    "email": "nowrozireza1@gmail.com",
+    "phone": "073-938 94 24",
+    "address": "Råckstavägen 6 Bromma",
+    "city": "168 42 Stockholm, Sverige"
+  },
+
+  "experience": [
+    {
+      "company": "Burgerking",
+      "role": "Kök & Städning",
+      "year": "Extra jobb - 2016"
+    },
+
+    {
+      "company": "Förskolan",
+      "role": "Barn & Ledarskap",
+      "year": "Sommarjobb - 2017"
+    },
+
+    {
+      "company": "Äldreboende",
+      "role": "Vård & Städning",
+      "year": "Sommarjobb - 2018"
+    },
+
+    {
+      "company": "Lager",
+      "role": "Orderplockare & Packning",
+      "year": "Heltidsjobb - 2021-2026"
+    }
+  ],
+
+  "education": [
+    {
+      "school": "Drottning Blankas Gymnasium",
+      "program": "Samhällsvetenskapliga programmet",
+      "year": "2018-2021"
+    }
+  ],
+
+  "hobbies": [
+    "Träna på gymmet",
+    "Läsa böcker",
+    "Spela fotboll",
+    "Matlagning",
+    "Promenad i naturen"
+  ],
+
+  "languages": [
+    "Persiska (Modersmål)",
+    "Dari (Modersmål)",
+    "Svenska (Flytande)",
+    "Engelska (Flytande)"
+  ]
+}
